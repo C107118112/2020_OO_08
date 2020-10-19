@@ -11,3 +11,7 @@
 #### 摘要:
 ---
 #### 組員分配工作:
+---
+![](gantt.jpg)
+![](pert.jpg)
+[PERT圖與甘特圖](https://hackmd.io/z_OxTWhSTg6-67fiiB-2-g)
