@@ -14,6 +14,7 @@
 ---
 ![](gantt.PNG)
 ![](pert.PNG)
-```繪圖工具:hackMD
-[PERT圖與甘特圖](https://hackmd.io/z_OxTWhSTg6-67fiiB-2-g)
+```
+繪圖工具:hackMD
+[PERT圖與甘特圖](https://hackmd.io/z_OxTWhSTg6-67fiiB-2-g"1020作業")
 ```
