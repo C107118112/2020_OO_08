@@ -13,5 +13,5 @@
 #### 組員分配工作:
 ---
 ![](gantt.PNG)
-![](pert.png)
+![](pert.PNG)
 [PERT圖與甘特圖](https://hackmd.io/z_OxTWhSTg6-67fiiB-2-g)
