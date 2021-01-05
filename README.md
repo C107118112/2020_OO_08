@@ -104,7 +104,7 @@
 
 
 ### PPT網址
-[PPT](https://docs.google.com/presentation/d/1lBmpQdQpN_yoYETQPnSt4tYFZ5lmPZsUvWeHR2e2piI/edit?usp=sharing)
+[PPT](https://docs.google.com/presentation/d/1cofjRMqj4-JFLz-19yNWCEsWTUeEdTY9c9XuQgE8uxQ/edit?usp=sharing)
 
 
 
